@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SriKumarD&label=Profile%20views&color=0e75b6&style=flat" alt="SriKumarD" /> </p>
 
-- 🔭 I’m currently working on **AI-Generated vs Human-Captured Image Classification Using CNN**
-- 🌱 I’m currently learning **Advanced Machine Learning Techniques and Cloud Services**
-- 💬 Ask me about **Java, Python, Machine Learning, and Full Stack Development**
+- 🔭 I’m currently pursuing a **Master's in Business Analytics and Information Systems at the University of South Florida**
+- 🌱 I’m currently learning **AI, Deep Learning, and Full Stack Technologies**
+- 💬 Ask me about **Deep Learning, Machine Learning, and Full Stack Development**
 - 📫 How to reach me: **srikumar@usf.edu**
 - ⚡ Fun fact: **I enjoy solving complex data problems**
 
@@ -43,14 +43,7 @@
   - **Description:** Built models to classify milk quality using various machine learning algorithms.
   - **Technologies:** Python, Sklearn, Matplotlib, Seaborn
 
-<div align="center">
-  <h2>🌟 My Contributions 🌟</h2>
-  <br>
-  <!-- Replace 'SriKumarD' with your GitHub username in the image URL below -->
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SriKumarD/SriKumarD/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+![GitHub Snake dark](https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake.svg)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SriKumarD&show_icons=true&locale=en&layout=compact" alt="SriKumarD" /></p>
